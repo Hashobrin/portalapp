@@ -1,0 +1,8 @@
+{
+    "name": "container",
+    "dockerComposeFile": [
+        "../docker-compose.yml",
+    ],
+    "service": "ubuntu-container",
+    "workspaceFolder": "/home/"
+}
